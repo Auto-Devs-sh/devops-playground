@@ -12,4 +12,4 @@
 ## How run:
 
 - in `shell` directory run `./basic-script.sh`
-- :warning: if you don't have permission run the following command: `sudo chmod ./basic-script.sh`
+- :warning: if you don't have permission run the following command: `sudo chmod 777 ./basic-script.sh`
