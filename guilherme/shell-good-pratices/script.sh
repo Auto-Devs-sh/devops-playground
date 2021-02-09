@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 #
 # script.sh - Simple introduction to good pratices with shell script
 #
