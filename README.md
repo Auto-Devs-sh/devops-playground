@@ -14,6 +14,7 @@ Devops studies playground
 
 
 ### Links uteis:
-- Introdução ao Vagrant: https://www.youtube.com/watch?v=VRzjkUJz-9U&t=193s
-- Provisionamento com Vagrant: https://www.youtube.com/watch?v=W8aK8nuz9pY&t=82s
-- Instalação do Oracle Linux no Vagrant: https://yum.oracle.com/boxes/
+- [Introdução ao Vagrant](https://www.youtube.com/watch?v=VRzjkUJz-9U&t=193s)
+- [Provisionamento com Vagrant](https://www.youtube.com/watch?v=W8aK8nuz9pY&t=82s)
+- [Instalação do Oracle Linux no Vagrant](https://yum.oracle.com/boxes/)
+- [Preparando ambiente de estudos/desenvolvimento Docker | Curso Docker](https://www.youtube.com/watch?v=c2y_yz9B6_M&list=PLg7nVxv7fa6dxsV1ftKI8FAm4YD6iZuI4)
