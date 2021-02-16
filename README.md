@@ -18,3 +18,7 @@ Devops studies playground
 - [Provisionamento com Vagrant](https://www.youtube.com/watch?v=W8aK8nuz9pY&t=82s)
 - [Instalação do Oracle Linux no Vagrant](https://yum.oracle.com/boxes/)
 - [Preparando ambiente de estudos/desenvolvimento Docker | Curso Docker](https://www.youtube.com/watch?v=c2y_yz9B6_M&list=PLg7nVxv7fa6dxsV1ftKI8FAm4YD6iZuI4)
+- [Como Criar Ambientes de Desenvolvimento PHP com o Docker Compose](https://www.youtube.com/watch?v=kMFBANDGNq4)
+- [Usando Docker para desenvolver aplicações Ruby on Rails](https://www.youtube.com/watch?v=eNyXYqfChvg)
+- [Ruby on Docker](https://www.youtube.com/watch?v=7kiIuImrE2w)
+- [Ambiente de desenvolvimento NodeJS com Docker e Docker Compose](https://www.youtube.com/watch?v=AVNADGzXrrQ&t=24s)
