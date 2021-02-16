@@ -10,6 +10,7 @@ Devops studies playground
 - 3: Subir uma VM usando Vagrant e provisionando com Shell Script em um serviço básico de servidor Web com apache e firewall ativados.
 - 4: Subir 4 VMs conceito de cluster e provisionando com Shell Script.
 - 5: Fazer um serviço HTTP com Python listando todas as env_vars do seu linux no endpoint: `localhost:8080/conf/env`, Crie um script Python que vai receber dois paramêtros env_name, env_var e vai criar uma nova variável de ambiente linux via HTTP, endpoint: `localhost:8080/env/$name/$v`
+- 6: Criar uma aplicação independente de linguagem e automatizar a conteinerização com `Docker` e `docker-compose`
 
 
 ### Links uteis:
