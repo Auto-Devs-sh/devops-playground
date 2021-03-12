@@ -7,8 +7,6 @@ Devops studies playground
 
 - 1: Criar scripts básico usando REGEX e boas práticas de código limpo em Shell Script.
 - 2: Criar um programa usando todas as boas práticas em Shell Script (cabeçalho, versionamento, testes).
-- 3: Subir uma VM usando Vagrant e provisionando com Shell Script em um serviço básico de servidor Web com apache e firewall ativados.
-
 
 ### Links uteis:
 - [5 dicas INCRÍVEIS para melhorar seus scripts em Shell!](https://mateusmuller.me/2019/05/22/5-dicas-incriveis-para-melhorar-seus-scripts-em-shell/)
