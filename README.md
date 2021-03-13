@@ -1,5 +1,5 @@
-# devops-playground
-Devops studies playground
+# Shell-playground
+Shell Script studies playground
 
 ## Roadmap
 
